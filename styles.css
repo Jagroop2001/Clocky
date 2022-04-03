@@ -1,0 +1,13 @@
+html , body{
+    height: 100%;
+}
+#clock{
+    font-family: 'Bungee Shade', cursive;
+    color: #fff;
+    position: relative;
+    font-size: 70px;
+    top: 50%;
+    margin-top: -35px;
+    text-align: center;
+
+}
